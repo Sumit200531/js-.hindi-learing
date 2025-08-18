@@ -19,3 +19,9 @@ console.log(c) //btech
 //     coursenamerr : "24",
 //     price : "3212"
 // }
+//can be in this format ->API
+// [
+//     {}
+//     {}
+//     {}
+// ]
