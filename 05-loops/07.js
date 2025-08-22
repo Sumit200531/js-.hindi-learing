@@ -13,5 +13,3 @@ const v = newnum.map( (i) => i *10)
            
            
            console.log(v) 
-
-
